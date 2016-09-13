@@ -300,6 +300,7 @@
 				690141C61D87A0EA00A77471 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
